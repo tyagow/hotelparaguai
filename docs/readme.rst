@@ -11,7 +11,7 @@ Documentation
 
 The full documentation is at http://hoteis-paraguai.readthedocs.io
 
-Live demo @
+Live demo @ http://hoteisparaguai.66.175.216.177.xip.io/
 
 Quickstart
 ----------
