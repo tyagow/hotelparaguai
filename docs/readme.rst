@@ -1,5 +1,5 @@
 =============================
-Django Base
+Hoteis Paraguai
 =============================
 
 
@@ -9,9 +9,9 @@ Django Base
 Documentation
 -------------
 
-The full documentation is at http://django-base.readthedocs.io.
+The full documentation is at http://hoteis-paraguai.readthedocs.io
 
-Live demo @ http://django-base.104.236.104.21.xip.io
+Live demo @
 
 Quickstart
 ----------
